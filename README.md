@@ -2,7 +2,7 @@
 
 # hello there :)
 
-*a sophomore learning to make machines learn :)*
+*- a sophomore learning to make machines learn*
 
 </div>
 
