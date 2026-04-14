@@ -59,7 +59,7 @@ cs231n · karpathy's rnn materials · goodfellow
 ### &nbsp;&nbsp;education
 
 **b.e. electrical engineering** · jadavpur university  
-cgpa 7.82 · focus: ai / ml / deep learning
+cgpa (confidential :")) · focus: ai / ml / deep learning
 
 &nbsp;
 
