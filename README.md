@@ -2,7 +2,8 @@
 
 <br>
 
-# soumodeep karmakar
+# hii there :)
+# soumodeep this side!
 
 *electrical engineering · jadavpur university, kolkata · 2nd year*
 
