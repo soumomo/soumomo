@@ -29,11 +29,11 @@
 
 | | |
 |---|---|
-| **netra vaani** | eye-tracking assistive system · mediapipe, opencv |
-| **audio deepfake detection** | resnet18 + xgboost · 99.7% accuracy |
-| **mechanical tool detection** | yolov8n · 0.80 mAP@0.50 · irc 2026 |
+| **[netra vaani](https://github.com/soumomo/finals_eye_tracking_system)** | eye-tracking assistive system · mediapipe, opencv |
+| **[audio deepfake detection](https://github.com/soumomo/audio_classification)** | resnet18 + xgboost · 99.7% accuracy |
+| **[mechanical tool detection](https://github.com/soumomo/irc_ros)** | yolov8n · 0.80 mAP@0.50 · irc 2026 |
 | **micrograd** | scalar autograd from first principles |
-| **thermonet** | thermodynamics of neural network learning |
+| **[thermonet](https://github.com/soumomo/thermonet)** | thermodynamics of neural network learning |
 
 &nbsp;
 
