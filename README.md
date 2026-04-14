@@ -17,13 +17,13 @@
 
 ### interests
 -- deep learning systems  
--- computer vision & interpretability of models 
+-- computer vision & interpretability  
 
 ### skills
 Languages: Python, C/C++, JavaScript  
 ML/DL: PyTorch, Deep Learning, Computer Vision (YOLOv8, OpenCV)  
-Data & Tools: Pandas, NumPy, Git, Docker  
+Tools: Pandas, NumPy, Git, Docker  
 
 ### currently building
--- a research on photovoltaic cells using generative ai 
+-- generative AI for photovoltaic research  
 -- surviving
