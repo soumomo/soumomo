@@ -1,6 +1,6 @@
 <div align="center">
 
-# soumodeep karmakar
+# hello there :)
 
 *a sophomore learning to make machines learn :)*
 
