@@ -13,9 +13,7 @@
 
 <br>
 
-*i am interested in how machines learn to perceive -*  
-*and what happens when they begin to see things*  
-*humans cannot.*
+*learning and making machines learn*
 
 <br>
 
