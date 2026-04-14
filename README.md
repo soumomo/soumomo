@@ -5,7 +5,7 @@
 # hii there :)
 # soumodeep this side!
 
-*electrical engineering · jadavpur university, kolkata · 2nd year*
+*ee @JU'28*
 
 <br>
 
