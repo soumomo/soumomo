@@ -7,8 +7,8 @@
 </div>
 
 ### currently learning
--- cs231n  
--- cs224n  
+-- more computer vision 
+-- getting started with NLP with cs224n 
 
 ### hackathons
 -- AISEHack 2026, IIITH · top 7  
