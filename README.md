@@ -17,7 +17,7 @@
 
 ### interests
 -- deep learning systems  
--- computer vision & interpretability  
+-- computer vision & explainability (getitng started)  
 
 ### skills
 Languages: Python, C/C++, JavaScript  
