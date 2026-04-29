@@ -21,7 +21,7 @@
 
 ### skills
 Languages: Python, C/C++, JavaScript  
-ML/DL: PyTorch, Deep Learning, Computer Vision (YOLOv8, OpenCV)  
+ML/DL: PyTorch, Deep Learning, Computer Vision
 Tools: Pandas, NumPy, Git, Docker  
 
 ### currently building
