@@ -11,7 +11,7 @@
 -- getting started with NLP with cs224n 
 
 ### hackathons
--- AISEHack 2026, IIITH · top 7  
+-- AISEHack 2026, IIITH · top 5  
 -- Medha-Manthan 2025 · 1st prize  
 -- Hackforge - Srijan'25 · 3rd position  
 
