@@ -7,7 +7,8 @@
 </div>
 
 ### currently learning
--- more computer vision 
+-- more computer vision
+
 -- getting started with NLP with cs224n 
 
 ### hackathons
